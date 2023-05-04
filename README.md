@@ -1,8 +1,15 @@
-# testing
+# Visual_Cryptography_mobile_based_model
 
 A new Flutter project.
 
 ## Getting Started
+
+# Setting Up 
+
+- Clone this repo and open in VS-Code.
+- Run Get Dependencies
+- Open Terminal and run this command "flutter run"
+- After this the application will produce the and display the output on your emulator.
 
 This project is a starting point for a Flutter application.
 
