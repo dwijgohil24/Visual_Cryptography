@@ -11,7 +11,11 @@ A new Flutter project.
 - Open Terminal and run this command "flutter run"
 - After this the application will produce the and display the output on your emulator.
 
-This project is a starting point for a Flutter application.
+# Current Development and Deployment 
+
+- The Assets folder contain two grayscale images one of cameraman and other of lena.
+- Our code will take this two images and will take Bitwise Xor of both the images pixel-by-pixel.
+- The generated output "xored" image will be displayed on screen.
 
 A few resources to get you started if this is your first Flutter project:
 
